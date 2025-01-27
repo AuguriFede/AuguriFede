@@ -1,0 +1,315 @@
+.contenitore{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .sfondo1 {
+        height: auto;
+    }
+    .sfondo1{
+        height: 200px;
+        width: 185px;
+        background-position: center;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-image: url(numero1.jpg);
+        margin-left:10px;
+        padding: 0;
+        float: left;
+    }
+.sfondo2{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero2.jpg);
+    margin-left:0;
+    padding: 0;
+    float: left;
+}
+.sfondo3{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero3.jpg);
+    margin-left:10px;
+    padding: 0;
+    float: left;
+}
+.sfondo4{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero4.jpg);
+    margin-left:0;
+    padding: 0;
+    float: left;
+}
+.sfondo5{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero5.jpg);
+    margin-left:10px;
+    padding: 0;
+    float: left;
+}
+.sfondo6{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero6.jpg);
+    margin-left:0;
+    padding: 0;
+    float: left;
+}
+.sfondo7{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero7.jpg);
+    margin-left:10px;
+    padding: 0;
+    float: left;
+}
+.sfondo8{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero8.jpg);
+    margin-left:0;
+    padding: 0;
+    float: left;
+}
+.sfondo9{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero9.jpg);
+    margin-left:10px;
+    padding: 0;
+    float: left;
+}
+.sfondo10{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero10.jpg);
+    margin-left:0;
+    padding: 0;
+    float: left;
+}
+.sfondo11{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero11.jpg);
+    margin-left:10px;
+    padding: 0;
+    float: left;
+}
+.sfondo12{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero12.jpg);
+    margin-left:0;
+    padding: 0;
+    float: left;
+}
+.sfondo13{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero13.jpg);
+    margin-left:10px;
+    padding: 0;
+    float: left;
+}
+.sfondo14{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero14.jpg);
+    margin-left:0;
+    padding: 0;
+    float: left;
+}
+.sfondo15{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero15.jpg);
+    margin-left:10px;
+    padding: 0;
+    float: left;
+}
+.sfondo16{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero16.jpg);
+    margin-left:0;
+    padding: 0;
+    float: left;
+}
+.sfondo17{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero17.jpg);
+    margin-left:10px;
+    padding: 0;
+    float: left;
+}
+.sfondo18{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero18.jpg);
+    margin-left:0;
+    padding: 0;
+    float: left;
+}
+.sfondo19{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero19.jpg);
+    margin-left:10px;
+    padding: 0;
+    float: left;
+}
+.sfondo20{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero20.jpg);
+    margin-left:0;
+    padding: 0;
+    float: left;
+}
+.sfondo21{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero21.jpg);
+    margin-left:10px;
+    padding: 0;
+    float: left;
+}
+.sfondo22{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero22.jpg);
+    margin-left:0;
+    padding: 0;
+    float: left;
+}
+.sfondo23{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero23.jpg);
+    margin-left:10px;
+    padding: 0;
+    float: left;
+}
+.sfondo24{
+    height: 200px;
+    width: 185px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(numero24.jpg);
+    margin-left:0;
+    padding: 0;
+    float: left;
+}
+.video{
+    height: 250px;
+    width: 370px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(meteofede.jpg);
+    background-size: 100%;
+    margin-left: 0;
+    padding: 0;
+    float: left;
+}
+.button {
+    background: #E6E6FA;
+  background-image: -webkit-linear-gradient(top, #E6E6FA, #E6E6FA);
+  background-image: -moz-linear-gradient(top, #E6E6FA, #E6E6FA);
+  background-image: -ms-linear-gradient(top, #E6E6FA, #E6E6FA);
+  background-image: -o-linear-gradient(top, #E6E6FA, #E6E6FA);
+  background-image: linear-gradient(to bottom, #E6E6FA, #E6E6FA);
+  -webkit-border-radius: 41;
+  -moz-border-radius: 41;
+  border-radius: 41px;
+  font-family: Arial;
+  color: #ffffff;
+  padding: 19px;
+  text-decoration: none;
+  position: absolute;
+  left: 125px;
+  }
+
+  
+  .button {
+    background: #E6E6FA;
+  background-image: -webkit-linear-gradient(top, #E6E6FA, #E6E6FA);
+  background-image: -moz-linear-gradient(top, #E6E6FA, #E6E6FA);
+  background-image: -ms-linear-gradient(top, #E6E6FA, #E6E6FA);
+  background-image: -o-linear-gradient(top, #E6E6FA, #E6E6FA);
+  background-image: linear-gradient(to bottom, #E6E6FA, #E6E6FA);
+  text-decoration: none;
+  }
+}
