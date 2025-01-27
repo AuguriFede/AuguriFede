@@ -285,7 +285,7 @@
     float: left;
 }
 .button {
-    background: ##ff0000;
+    background: #ff0000;
   background-image: -webkit-linear-gradient(top, #E6E6FA, #E6E6FA);
   background-image: -moz-linear-gradient(top, #E6E6FA, #E6E6FA);
   background-image: -ms-linear-gradient(top, #E6E6FA, #E6E6FA);
