@@ -6,9 +6,6 @@
 }
 
 @media screen and (max-width: 768px) {
-    .sfondo1 {
-        height: auto;
-    }
     .sfondo1{
         height: 200px;
         width: 185px;
@@ -44,7 +41,7 @@
 }
 .sfondo4{
     height: 200px;
-    width: 185px;
+    width: 160px;
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
