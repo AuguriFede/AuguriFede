@@ -285,7 +285,7 @@
     float: left;
 }
 .button {
-    background: #E6E6FA;
+    background: ##ff0000;
   background-image: -webkit-linear-gradient(top, #E6E6FA, #E6E6FA);
   background-image: -moz-linear-gradient(top, #E6E6FA, #E6E6FA);
   background-image: -ms-linear-gradient(top, #E6E6FA, #E6E6FA);
@@ -295,7 +295,7 @@
   -moz-border-radius: 41;
   border-radius: 41px;
   font-family: Arial;
-  color: #ff0000;
+  color: #FFFFFF;
   padding: 19px;
   text-decoration: none;
   position: absolute;
